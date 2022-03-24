@@ -1,0 +1,16 @@
+C:\Users\Henri\OneDrive\Área de Trabalho\C Sharp #\Seção 5\51-Construtores\51-Construtores\bin\Debug\net5.0\51-Construtores.exe
+C:\Users\Henri\OneDrive\Área de Trabalho\C Sharp #\Seção 5\51-Construtores\51-Construtores\bin\Debug\net5.0\51-Construtores.deps.json
+C:\Users\Henri\OneDrive\Área de Trabalho\C Sharp #\Seção 5\51-Construtores\51-Construtores\bin\Debug\net5.0\51-Construtores.runtimeconfig.json
+C:\Users\Henri\OneDrive\Área de Trabalho\C Sharp #\Seção 5\51-Construtores\51-Construtores\bin\Debug\net5.0\51-Construtores.runtimeconfig.dev.json
+C:\Users\Henri\OneDrive\Área de Trabalho\C Sharp #\Seção 5\51-Construtores\51-Construtores\bin\Debug\net5.0\51-Construtores.dll
+C:\Users\Henri\OneDrive\Área de Trabalho\C Sharp #\Seção 5\51-Construtores\51-Construtores\bin\Debug\net5.0\ref\51-Construtores.dll
+C:\Users\Henri\OneDrive\Área de Trabalho\C Sharp #\Seção 5\51-Construtores\51-Construtores\bin\Debug\net5.0\51-Construtores.pdb
+C:\Users\Henri\OneDrive\Área de Trabalho\C Sharp #\Seção 5\51-Construtores\51-Construtores\obj\Debug\net5.0\51-Construtores.csprojAssemblyReference.cache
+C:\Users\Henri\OneDrive\Área de Trabalho\C Sharp #\Seção 5\51-Construtores\51-Construtores\obj\Debug\net5.0\51-Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henri\OneDrive\Área de Trabalho\C Sharp #\Seção 5\51-Construtores\51-Construtores\obj\Debug\net5.0\51-Construtores.AssemblyInfoInputs.cache
+C:\Users\Henri\OneDrive\Área de Trabalho\C Sharp #\Seção 5\51-Construtores\51-Construtores\obj\Debug\net5.0\51-Construtores.AssemblyInfo.cs
+C:\Users\Henri\OneDrive\Área de Trabalho\C Sharp #\Seção 5\51-Construtores\51-Construtores\obj\Debug\net5.0\51-Construtores.csproj.CoreCompileInputs.cache
+C:\Users\Henri\OneDrive\Área de Trabalho\C Sharp #\Seção 5\51-Construtores\51-Construtores\obj\Debug\net5.0\51-Construtores.dll
+C:\Users\Henri\OneDrive\Área de Trabalho\C Sharp #\Seção 5\51-Construtores\51-Construtores\obj\Debug\net5.0\ref\51-Construtores.dll
+C:\Users\Henri\OneDrive\Área de Trabalho\C Sharp #\Seção 5\51-Construtores\51-Construtores\obj\Debug\net5.0\51-Construtores.pdb
+C:\Users\Henri\OneDrive\Área de Trabalho\C Sharp #\Seção 5\51-Construtores\51-Construtores\obj\Debug\net5.0\51-Construtores.genruntimeconfig.cache
